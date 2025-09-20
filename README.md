@@ -41,11 +41,11 @@ There are 3 main ways to navigate the repo:
 
 3) **Exploration:** Try this order:
    
-- Data: See information below about LFS to access thousands of images.
-- Preprocessing: Run preprocess_nutrition5k.py 
-- Classification: Run grade_mapping.py
-- Split: Run split_rgb_images.py
-- Testing: Run "CNN Transfer Learning" Jupyter notebook.
+- **Data:** See information below about LFS to access thousands of images.
+- **Preprocessing:** Run preprocess_nutrition5k.py 
+- **Classification:** Run grade_mapping.py
+- **Split:** Run split_rgb_images.py
+- **Testing:** Run "CNN Transfer Learning" Jupyter notebook.
 
 ## Access
 
