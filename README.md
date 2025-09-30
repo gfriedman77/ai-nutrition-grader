@@ -1,14 +1,3 @@
-## FYI
-**In process:** There will be multiple iterations as I experiment with custom CNN models and various strategies.
-
-- This project is most interesting to me because of a limited dataset size and an imbalance between classes.
-- I'd love to know what you try if you play around -- Please feel free to use any models I upload to experiment!
-
-**Target variable:** There are many possible approaches. In this model, it is a grade based on predicted macronutrient ratios. 
-- People follow a variety of diets in relation to their health needs, so multiple ratios could be designed. 
-- Alternatively, a model could be trained to predict individual macronutrients.
-- One consideration is how a model can recognize portion sizes and ingredient proportions in relation to weight.   
-
 ## Introduction
 
 ### Inspiration
