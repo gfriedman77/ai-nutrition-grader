@@ -5,8 +5,7 @@ The "AI nutrition grader" builds upon "Presenting Nutritrack," a project that wo
 pitch competition when we presented a custom CNN proof-of-concept and discussed our business plan.
 
 ### Design
-The model built for this project is a transfer learning design. Like the original project,
-the data comes from the Nutrition5K dataset (RGB images of food on plates).
+The model built for this project, unlike the original, is a transfer learning design. The data remained the same; it comes from the Nutrition5K dataset (RGB images of food on plates).
 
 ### Workflow
 
