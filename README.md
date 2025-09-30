@@ -1,7 +1,7 @@
 ## Introduction
 
 ### Inspiration
-The "AI nutrition grader" builds upon "Presenting Nutritrack," project that won my team an AI app design 
+The "AI nutrition grader" builds upon "Presenting Nutritrack," a project that won my team an AI app design 
 pitch competition when we presented a custom CNN proof-of-concept and discussed our business plan.
 
 ### Design
