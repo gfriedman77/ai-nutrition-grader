@@ -1,23 +1,11 @@
-## FYI
-**In process:** There will be multiple iterations as I experiment with custom CNN models and various strategies.
-
-- This project is most interesting to me because of a limited dataset size and an imbalance between classes.
-- I'd love to know what you try if you play around -- Please feel free to use any models I upload to experiment!
-
-**Target variable:** There are many possible approaches. In this model, it is a grade based on predicted macronutrient ratios. 
-- People follow a variety of diets in relation to their health needs, so multiple ratios could be designed. 
-- Alternatively, a model could be trained to predict individual macronutrients.
-- One consideration is how a model can recognize portion sizes and ingredient proportions in relation to weight.   
-
 ## Introduction
 
 ### Inspiration
-The "AI nutrition grader" builds upon "Presenting Nutritrack," project that won my team an AI app design 
+The "AI nutrition grader" builds upon "Presenting Nutritrack," a project that won my team an AI app design 
 pitch competition when we presented a custom CNN proof-of-concept and discussed our business plan.
 
 ### Design
-The model built for this project is a transfer learning design. Like the original project,
-the data comes from the Nutrition5K dataset (RGB images of food on plates).
+The model built for this project, unlike the original, is a transfer learning design. The data remained the same; it comes from the Nutrition5K dataset (RGB images of food on plates).
 
 ### Workflow
 
